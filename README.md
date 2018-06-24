@@ -1,5 +1,5 @@
 # Switch-Starterpack
-A homebrew starter pack for the Nintendo Switch for use with my guide. (I don't own any of this)
+A homebrew starter pack for the Nintendo Switch for use with [my guide](https://t3chnolog1c.github.io/SwitchGuide/). (I don't own any of this)
 
 ## Included Homebrew:
 * [2048](https://github.com/BernardoGiordano/2048/), a homebrew port of the popular game of the same name.
